@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyEnventCLB" Class="QuanLyEventCLBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-7VH4PIS1;Initial Catalog=QuanLyEnventCLB;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" SettingsObjectName="Project_Angile.Properties.Settings" SettingsPropertyName="QuanLyEnventCLBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Certificate" Member="Certificates">
+    <Type Name="Certificate">
+      <Column Name="CertificateID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="IssuedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CertificateURL" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Association Name="Event_Certificate" Member="Event" ThisKey="EventID" OtherKey="EventID" Type="Event" IsForeignKey="true" />
+      <Association Name="User_Certificate" Member="User" ThisKey="UserID" OtherKey="UserID" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Event" Member="Events">
+    <Type Name="Event">
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Location" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="StartTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EndTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="MaxAttendees" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CreatedBy" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Category" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Event_Certificate" Member="Certificates" ThisKey="EventID" OtherKey="EventID" Type="Certificate" />
+      <Association Name="Event_EventBudget" Member="EventBudgets" ThisKey="EventID" OtherKey="EventID" Type="EventBudget" />
+      <Association Name="Event_EventDocument" Member="EventDocuments" ThisKey="EventID" OtherKey="EventID" Type="EventDocument" />
+      <Association Name="Event_EventEquipment" Member="EventEquipments" ThisKey="EventID" OtherKey="EventID" Type="EventEquipment" />
+      <Association Name="Event_EventRegistration" Member="EventRegistrations" ThisKey="EventID" OtherKey="EventID" Type="EventRegistration" />
+      <Association Name="Event_EventTask" Member="EventTasks" ThisKey="EventID" OtherKey="EventID" Type="EventTask" />
+      <Association Name="Event_Feedback" Member="Feedbacks" ThisKey="EventID" OtherKey="EventID" Type="Feedback" />
+      <Association Name="User_Event" Member="User" ThisKey="CreatedBy" OtherKey="UserID" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EventBudget" Member="EventBudgets">
+    <Type Name="EventBudget">
+      <Column Name="BudgetID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ItemName" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Decimal" DbType="Decimal(15,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Event_EventBudget" Member="Event" ThisKey="EventID" OtherKey="EventID" Type="Event" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EventDocument" Member="EventDocuments">
+    <Type Name="EventDocument">
+      <Column Name="DocumentID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="FileName" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="FileURL" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="FileType" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Event_EventDocument" Member="Event" ThisKey="EventID" OtherKey="EventID" Type="Event" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EventEquipment" Member="EventEquipments">
+    <Type Name="EventEquipment">
+      <Column Name="EquipmentID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ItemName" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Event_EventEquipment" Member="Event" ThisKey="EventID" OtherKey="EventID" Type="Event" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EventRegistration" Member="EventRegistrations">
+    <Type Name="EventRegistration">
+      <Column Name="RegistrationID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RegistrationDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="QRCodeString" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="IsCheckedIn" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="CheckInTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CheckInMethod" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Event_EventRegistration" Member="Event" ThisKey="EventID" OtherKey="EventID" Type="Event" IsForeignKey="true" />
+      <Association Name="User_EventRegistration" Member="User" ThisKey="UserID" OtherKey="UserID" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EventTask" Member="EventTasks">
+    <Type Name="EventTask">
+      <Column Name="TaskID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="AssignedTo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TaskName" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Event_EventTask" Member="Event" ThisKey="EventID" OtherKey="EventID" Type="Event" IsForeignKey="true" />
+      <Association Name="User_EventTask" Member="User" ThisKey="AssignedTo" OtherKey="UserID" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Feedback" Member="Feedbacks">
+    <Type Name="Feedback">
+      <Column Name="FeedbackID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="EventID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Rating" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Comment" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SubmittedAt" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Event_Feedback" Member="Event" ThisKey="EventID" OtherKey="EventID" Type="Event" IsForeignKey="true" />
+      <Association Name="User_Feedback" Member="User" ThisKey="UserID" OtherKey="UserID" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Role" Member="Roles">
+    <Type Name="Role">
+      <Column Name="RoleID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="RoleName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Role_User" Member="Users" ThisKey="RoleID" OtherKey="RoleID" Type="User" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[User]" Member="Users">
+    <Type Name="User">
+      <Column Name="UserID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="RoleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StudentID" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="FullName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordHash" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Class" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="User_Certificate" Member="Certificates" ThisKey="UserID" OtherKey="UserID" Type="Certificate" />
+      <Association Name="User_Event" Member="Events" ThisKey="UserID" OtherKey="CreatedBy" Type="Event" />
+      <Association Name="User_EventRegistration" Member="EventRegistrations" ThisKey="UserID" OtherKey="UserID" Type="EventRegistration" />
+      <Association Name="User_EventTask" Member="EventTasks" ThisKey="UserID" OtherKey="AssignedTo" Type="EventTask" />
+      <Association Name="User_Feedback" Member="Feedbacks" ThisKey="UserID" OtherKey="UserID" Type="Feedback" />
+      <Association Name="Role_User" Member="Role" ThisKey="RoleID" OtherKey="RoleID" Type="Role" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

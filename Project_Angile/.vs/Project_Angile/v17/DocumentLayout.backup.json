@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test_A\\Project_Angile\\Project_Angile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmsukienclb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmsukienclb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmsukienclb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmsukienclb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmeventsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmeventsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|d:\\test_a\\project_angile\\project_angile\\project_angile\\frmfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmselfcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmselfcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formtonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formtonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formlichsudangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formlichsudangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|d:\\test_a\\project_angile\\project_angile\\project_angile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formtonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formtonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmeventcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmeventcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmselfcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmselfcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmeventsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmeventsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\frmeventcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\frmeventcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|D:\\test_A\\Project_Angile\\Project_Angile\\project_angile\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF21811A-A6C0-40A6-AEB8-19FF432D1E9B}|Project_Angile\\Project_Angile.csproj|solutionrelative:project_angile\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmFeedBack.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmFeedBack.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmFeedBack.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmFeedBack.cs",
+              "RelativeToolTip": "Project_Angile\\frmFeedBack.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:19:56.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmStudentInformation.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmStudentInformation.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmStudentInformation.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmStudentInformation.cs",
+              "RelativeToolTip": "Project_Angile\\frmStudentInformation.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAIwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:39:59.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmStudentInformation.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmStudentInformation.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmStudentInformation.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmStudentInformation.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\frmStudentInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:36:19.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormThongKe.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:37:23.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormRegister.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormRegister.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormRegister.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:36:41.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLichSuDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormLichSuDangKy.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormLichSuDangKy.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormLichSuDangKy.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\FormLichSuDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:36:40.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\ThongKe.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\ThongKe.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\ThongKe.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:36:31.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\packages.config",
+              "RelativeDocumentMoniker": "Project_Angile\\packages.config",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\packages.config",
+              "RelativeToolTip": "Project_Angile\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-19T16:36:20.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmFeedBack.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmFeedBack.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmFeedBack.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmFeedBack.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\frmFeedBack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:36:18.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmSelfCheckIn.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSelfCheckIn.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmSelfCheckIn.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSelfCheckIn.cs",
+              "RelativeToolTip": "Project_Angile\\frmSelfCheckIn.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAqwOwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:00:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSelfCheckIn.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSelfCheckIn.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmSelfCheckIn.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSelfCheckIn.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\frmSelfCheckIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:00:36.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSuKienCLB.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSuKienCLB.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmSuKienCLB.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSuKienCLB.cs",
+              "RelativeToolTip": "Project_Angile\\frmSuKienCLB.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAswBkBAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:39:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSuKienCLB.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSuKienCLB.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmSuKienCLB.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmSuKienCLB.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\frmSuKienCLB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:38:47.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormDangNhap.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangNhap.cs",
+              "RelativeToolTip": "Project_Angile\\FormDangNhap.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:18:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormDangNhap.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:18:48.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmEventSearch.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventSearch.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmEventSearch.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventSearch.cs",
+              "RelativeToolTip": "Project_Angile\\frmEventSearch.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:15:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmEventCalendar.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventCalendar.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmEventCalendar.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventCalendar.cs",
+              "RelativeToolTip": "Project_Angile\\frmEventCalendar.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:10:52.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmEventCalendar.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventCalendar.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmEventCalendar.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventCalendar.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\frmEventCalendar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:10:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormDangKy.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormDangKy.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangKy.cs",
+              "RelativeToolTip": "Project_Angile\\FormDangKy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:39:45.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormDangKy.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormDangKy.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\FormDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:39:30.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmEventDetail.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventDetail.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmEventDetail.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventDetail.cs",
+              "RelativeToolTip": "Project_Angile\\frmEventDetail.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAiwAgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:30:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEventDetail.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventDetail.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmEventDetail.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventDetail.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\frmEventDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:30:48.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEventSearch.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventSearch.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\frmEventSearch.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\frmEventSearch.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\frmEventSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:28:19.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormTongHop.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormTongHop.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormTongHop.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormTongHop.cs",
+              "RelativeToolTip": "Project_Angile\\FormTongHop.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAA3wIgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:28:10.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTongHop.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormTongHop.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\FormTongHop.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\FormTongHop.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\FormTongHop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:27:00.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentDetail.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\StudentDetail.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\StudentDetail.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\StudentDetail.cs",
+              "RelativeToolTip": "Project_Angile\\StudentDetail.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAADwv/MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:11:15.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentDetail.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\StudentDetail.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\StudentDetail.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\StudentDetail.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\StudentDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:11:12.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\Form1.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\Form1.cs",
+              "RelativeToolTip": "Project_Angile\\Form1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwG0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:09:48.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\Form1.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\Form1.cs [Design]",
+              "RelativeToolTip": "Project_Angile\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:09:46.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Angile\\Program.cs",
+              "ToolTip": "D:\\test_A\\Project_Angile\\Project_Angile\\Project_Angile\\Program.cs",
+              "RelativeToolTip": "Project_Angile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:06:31.36Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1306,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
